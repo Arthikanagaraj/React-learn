@@ -1,8 +1,8 @@
 import './App.css';
-import WithJSX from './Components/WithJSX';
+import WithoutJSX from './Components/WithoutJSX';
 function App() {
   return (
-    <WithJSX/>
+    <WithoutJSX/>
   );
 }
 
