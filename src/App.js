@@ -1,8 +1,8 @@
 import './App.css';
-import Class from './Components/Class';
+import WithJSX from './Components/WithJSX';
 function App() {
   return (
-    <Class/>
+    <WithJSX/>
   );
 }
 
