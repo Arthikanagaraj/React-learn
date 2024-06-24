@@ -1,8 +1,8 @@
 import './App.css';
-import WithoutJSX from './Components/WithoutJSX';
+import FunctionProps from './Components/FunctionProps';
 function App() {
   return (
-    <WithoutJSX/>
+    <FunctionProps name="Arthi"/>
   );
 }
 
