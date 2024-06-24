@@ -1,8 +1,8 @@
 import './App.css';
-import FunctionProps from './Components/FunctionProps';
+import ClassProps from './Components/ClassProps';
 function App() {
   return (
-    <FunctionProps name="Arthi"/>
+    <ClassProps name="Arthi"/>
   );
 }
 
