@@ -1,10 +1,8 @@
-
 import './App.css';
-import HelloWorld from './Components/HelloWorld';
-
+import Function from './Components/Function';
 function App() {
   return (
-    <HelloWorld/>
+    <Function/>
   );
 }
 
