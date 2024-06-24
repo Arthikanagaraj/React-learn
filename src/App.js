@@ -1,8 +1,8 @@
 import './App.css';
-import Function from './Components/Function';
+import Class from './Components/Class';
 function App() {
   return (
-    <Function/>
+    <Class/>
   );
 }
 
