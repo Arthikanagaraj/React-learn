@@ -1,8 +1,8 @@
 import './App.css';
-import ClassProps from './Components/ClassProps';
+import State from './Components/State';
 function App() {
   return (
-    <ClassProps name="Arthi"/>
+    <State/>
   );
 }
 
