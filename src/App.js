@@ -1,9 +1,8 @@
 import './App.css';
-import EventBindingHandler3 from './Components/BindingEventHandler3';
-import BindingEventHandler3 from './Components/BindingEventHandler3';
+import Counter from './Counter';
 function App() {
   return (
-    <EventBindingHandler3/>
+    <Counter/>
   );
 }
 
