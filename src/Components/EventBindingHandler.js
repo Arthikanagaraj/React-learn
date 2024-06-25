@@ -7,7 +7,7 @@ class EventBindingHandler extends React.Component{
     }
     this.changeHandler=this.changeHandler.bind(this)
     }
-    changeHandler(){
+    changeHandler=()=>{
         this.setState({
             message:"Bye"
         })
