@@ -1,8 +1,8 @@
 import './App.css';
-import Destructuringfunctionbody from './Components/Destructuringfunctionbody';
+import DestructuringClass from './Components/DestructuringClass';
 function App() {
   return (
-    <Destructuringfunctionbody name="Arthi" age="19"/>
+    <DestructuringClass name="Arthi" age="18"/>
   );
 }
 
