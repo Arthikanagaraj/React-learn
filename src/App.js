@@ -1,8 +1,9 @@
 import './App.css';
-import DestructuringClass from './Components/DestructuringClass';
+
+import EventHandlingFunc from './Components/EventHandlingFunc';
 function App() {
   return (
-    <DestructuringClass name="Arthi" age="18"/>
+    <EventHandlingFunc/>
   );
 }
 
