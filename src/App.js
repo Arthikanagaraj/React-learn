@@ -1,8 +1,8 @@
 import './App.css';
-import EventHandlingClass from './Components/EventHandlingClass';
+import EventBindingHandler from './Components/EventBindingHandler';
 function App() {
   return (
-    <EventHandlingClass/>
+    <EventBindingHandler/>
   );
 }
 
