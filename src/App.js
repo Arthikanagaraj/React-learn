@@ -1,8 +1,8 @@
 import './App.css';
-import State from './Components/State';
+import Destructuringtheparameter from './Components/Destructuringtheparameter';
 function App() {
   return (
-    <State/>
+    <Destructuringtheparameter name="Arthi" age="20"/>
   );
 }
 
