@@ -5,6 +5,7 @@ class EventBindingHandler extends React.Component{
     this.state={
       message:"Welcome"
     }
+    this.changeHandler=this.changeHandler.bind(this)
     }
     changeHandler(){
         this.setState({
@@ -15,7 +16,7 @@ class EventBindingHandler extends React.Component{
         return(
            <div>
             <h1>{this.state.message}</h1>
-            <button onClick={this.changeHandler.bind(this)}>Click</button>
+            <button onClick={this.changeHandler}>Click</button>
            </div>
         )
     }
