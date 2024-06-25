@@ -1,8 +1,8 @@
 import './App.css';
-import Destructuringtheparameter from './Components/Destructuringtheparameter';
+import Destructuringfunctionbody from './Components/Destructuringfunctionbody';
 function App() {
   return (
-    <Destructuringtheparameter name="Arthi" age="20"/>
+    <Destructuringfunctionbody name="Arthi" age="19"/>
   );
 }
 
