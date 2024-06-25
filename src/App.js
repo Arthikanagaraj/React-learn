@@ -1,8 +1,9 @@
 import './App.css';
-import EventBindingHandler2 from './Components/EventBindingHandler2';
+import EventBindingHandler3 from './Components/BindingEventHandler3';
+import BindingEventHandler3 from './Components/BindingEventHandler3';
 function App() {
   return (
-    <EventBindingHandler2/>
+    <EventBindingHandler3/>
   );
 }
 
